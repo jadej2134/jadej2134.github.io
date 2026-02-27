@@ -44,10 +44,10 @@
     <div class="container-fluid bg-1">
         <div class="container">
 
-            <h1 class="margin text-center">Example Project</h1>
-            <p>Text about the project</p>
-            <p>More text about the project.</p>
-            <a href="#">Link about the project</a><br>
+            <h1 class="margin text-center">60 Seconds</h1>
+            <p>This project is about 60 seconds before the world ends, you have choices set upon you, your remaining time left alive is in your hands, what do you choose to do with it?</p>
+            <p>In this project I contributed and worked with two other people and we all came up with ideas and choices to create, lets see your fate.</p>
+            <a href="#">https://github.com/pamelar3889/SEP10-CYOA-project/blob/main/README.md</a>This is the link to the project.<br>
 
             <!--EXAMPLE OF PREVIEW LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName">Preview</a><br>-->
